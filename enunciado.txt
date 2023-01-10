@@ -1,0 +1,5 @@
+Partíendo de la base de datos Tienda, ya creada en el script Tienda.sql, y compuesta de las tablas Artículos y Fabricante.
+
+Hacer un programa en Java, que cree una tabla ArtFab que contendrá el nombre del artículo, el nombre del fabricante, el precio y una nueva columna denominada iva que será el 10% del precio de aquellos artículos que cuesten menos de 200 €, el 8% del precio de aquellos artículos que cuesten menos de 500€, el 6% para aquellos artículos que cuesten menos de 700€ y el resto se quedan como están.
+
+Finalmente, sacar un listado de toda la información contenida en la nueva tabla.
